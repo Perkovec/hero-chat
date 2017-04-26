@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "plugins": ["react", "vue"],
+  "rules": {
+    "no-new": 0,
+    "import/no-extraneous-dependencies": 0
+  }
+}
